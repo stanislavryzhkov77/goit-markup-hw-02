@@ -74,7 +74,7 @@ button {
     font-style: normal;
 }
 
-.menu-address-link {
+.address-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -82,8 +82,8 @@ button {
     color: #434455;
 }
 
-.menu-address-link:hover,
-.menu-address-link:focus {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 
